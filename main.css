@@ -1,0 +1,80 @@
+.navbar {
+  color : rgb ( 7 , 7 , 7 );
+  cuadro de sombra : 1 px  1 px  1 px  # 807f7f ;
+  opacidad : 10 ;
+}
+
+.navbar  .nav-item  .nav-link {
+  color : rgb ( 7 , 7 , 7 );
+}
+
+.navbar  .navbar-brand {
+  color : rgb ( 22 , 22 , 22 );
+}
+
+.main-header {
+  posición : relativa ;
+  fondo : url ( https://roviec.github.io/socialmediamanagers/img/fondo-smm-768x461.jpg );
+  tamaño de fondo : cubierta ;
+  altura min : 600 px ;
+}
+
+.background-overlay {
+  fondo : rgba ( 00 , 00 , 000 , .6 );
+  arriba : 0 ;
+  izquierda : 0 ;
+  ancho : 100 % ;
+  altura : 100 % ;
+}
+
+#somos {
+  fondo : # faf9f9 ;
+  arriba : 0 ;
+  izquierda : 0 ;
+  abajo : 0 ;
+  ancho : 100 % ;
+  altura : 80 % ;
+}
+#servicios {
+  imagen de fondo : gradiente lineal ( hacia  abajo , # 327744  0 % , # 043d11  100 % );
+  arriba : 0 ;
+  izquierda : 0 ;
+  abajo : 0 ;
+  ancho : 100 % ;
+  altura : 80 % ;
+}
+#clientes {
+  imagen de fondo : gradiente lineal ( hacia  abajo , # 3f3e3e  0 % , negro  100 % );
+  arriba : 0 ;
+  izquierda : 0 ;
+  abajo : 0 ;
+  ancho : 100 % ;
+  altura : 100 % ;
+ }
+
+ #blog {
+  imagen de fondo : gradiente lineal ( hacia  abajo , # f8f5f5  0 % , # 131313  100 % );
+  arriba : 0 ;
+  izquierda : 0 ;
+  abajo : 0 ;
+  ancho : 100 % ;
+  altura : 100 % ;
+ }
+
+#contacto {
+  imagen de fondo : gradiente lineal ( hacia  abajo , # 131313  0 % , negro  100 % );
+  arriba : 0 ;
+  izquierda : 0 ;
+  abajo : 0 ;
+  ancho : 100 % ;
+  altura : 100 % ;
+}
+
+#copyrigth {
+  imagen de fondo : gradiente lineal ( 30 grados , # 29323c  0 % , # 10151b  100 % );
+  arriba : 0 ;
+  izquierda : 0 ;
+  abajo : 0 ;
+  ancho : 100 % ;
+  altura : 100 % ;
+}
