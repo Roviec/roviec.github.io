@@ -1,4 +1,3 @@
-
 .navbar {
   color: rgb(7, 7, 7);
   box-shadow: 1px 1px 1px #807f7f;
@@ -15,7 +14,7 @@
 
 .main-header {
   position: relative;
-  background:url(file:///C:/Users/Maximo/Desktop/socialmediamanagers/img/fondo-smm-768x461.jpg);
+  background:url(http://socialmediamanagers/img/fondo-smm-768x461.jpg);
   background-size: cover;
   min-height: 600px;
 }
