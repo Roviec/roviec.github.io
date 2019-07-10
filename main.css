@@ -14,7 +14,7 @@
 
 .main-header {
   posición : relativa ;
-  fondo : url ( https://roviec.github.io/socialmediamanagers/img/fondo-smm-768x461.jpg );
+  backgraund: url(http://socialmediamanagers7img/fondo-smm-768x461.jpg);
   tamaño de fondo : cubierta ;
   altura min : 600 px ;
 }
